@@ -41,7 +41,7 @@
 
 <div align="center">
 
-💻 Desarrollo de Software | Bases de Datos | Linux  
+💻 Desarrollo de Software | ISO 70003 | Linux  
 
 🧠 Pensamiento analítico y resolución de problemas  
 📚 Aprendizaje constante y adaptación tecnológica  
