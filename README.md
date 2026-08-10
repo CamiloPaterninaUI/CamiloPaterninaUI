@@ -30,9 +30,6 @@
 
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
 <h3 align="center">👨🏻‍💻 Sobre mí ⚙️</h3>
 
 <p align="center">
