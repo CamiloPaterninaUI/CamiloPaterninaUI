@@ -93,19 +93,6 @@
 </tr>
 </table>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=📊+Mis+Estadísticas+en+GitHub;Siempre+mejorando+🚀">
-</h2>
-
-<div align="center">
-
-<!-- Stats principales -->
-<img src="https://github-readme-stats.vercel.app/api?username=CamiloPaterninaUI&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" width="47%" />
-
-<img src="https://streak-stats.demolab.com?user=CamiloPaterninaUI&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="47%" />
-
-</div>
-
 <br>
 
 <div align="center">
